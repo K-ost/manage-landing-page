@@ -46,6 +46,7 @@ Users should be able to:
 - Pure JavaScript
 - Swiper.JS
 - Chart.JS
+- Waypoints (for animation)
 
 ## Author
 
