@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/K-ost/manage-landing-page](https://github.com/K-ost/manage-landing-page)
-- Live Site URL: [https://K-ost.github.io/manage-landing-page](https://K-ost.github.io/manage-landing-page)
+- Live Site URL: [https://k-ost.github.io/manage-landing-page/](https://k-ost.github.io/manage-landing-page/)
 
 ## My process
 
